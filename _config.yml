@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Cliff Senkbeil"
   avatar           : "/assets/images/cliff400x400.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Software, algorithms and **visualisations**. Building **awesome** things!"
   location         : "Australia"
   email            :
   links:
@@ -268,7 +268,7 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+ #_posts
   - scope:
       path: ""
       type: posts
